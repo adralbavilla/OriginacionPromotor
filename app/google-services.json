@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96725683759",
+    "firebase_url": "https://ent-dev-sales-flow.firebaseio.com",
+    "project_id": "ent-dev-sales-flow",
+    "storage_bucket": "ent-dev-sales-flow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96725683759:android:a141204e6322e70821c0da",
+        "android_client_info": {
+          "package_name": "com.originacion.promotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96725683759-jq2llu12of5phek9t3kn4k1nltapnrup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_7SH5-6VSqsrHoEEQihYDQ5Jytoo_tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96725683759-jq2llu12of5phek9t3kn4k1nltapnrup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
